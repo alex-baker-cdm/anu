@@ -29,6 +29,9 @@
   "keywords": [],
   "author": "David Saffo",
   "license": "Apache-2.0",
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "peerDependencies": {
     "@babylonjs/core": "^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0"
   },
