@@ -12,6 +12,10 @@ The contribution agreement can be found here [JPMC CLA]([jpmc-cla-20230406.md](h
 
 JPMC's Open Source Project operate under our [Code of Conduct](https://github.com/jpmorganchase/.github/blob/main/CODE_OF_CONDUCT.md) helping us maintain inclusive, healthy, and constructive communities
 
+## Development Environment
+
+- [Node.js](https://nodejs.org/) >= 22 LTS is required for development
+
 ## Code Reviews
 
 All submission to projects from any source require code review by project maintainers. We are using GitHub pull requests to enforce code reviews. For more information on GitHub pull requests see [GitHub docs](https://docs.github.com/)

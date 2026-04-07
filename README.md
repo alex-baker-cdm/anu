@@ -5,6 +5,10 @@ Anujs is an immersive data visualization toolkit built on the web-based 3D game 
 ---
 See our docs for more details: https://jpmorganchase.github.io/anu/
 
+## Prerequisites
+
+- [Node.js](https://nodejs.org/) >= 22 LTS
+
 ## Install
 
 ### Install with a Babylonjs project manually. 
